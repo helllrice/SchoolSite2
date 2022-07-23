@@ -1,0 +1,16 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.header-wrapper {
+    background: #004dac;
+    padding: 0 15px;
+    max-width: 100%;
+    min-width: 320px;
+}
+
+.header-box {
+    display: flex;
+    justify-content: center;
+    padding: 15px 0;
+}

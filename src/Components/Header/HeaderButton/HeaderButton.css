@@ -1,0 +1,25 @@
+.header-button {
+    display: inline-block;
+    font-weight: 500;
+    background: #5793c7 !important;
+    padding: 10px 20px 12px;
+    margin-left: 30px;
+    vertical-align: middle;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 30px;
+}
+
+.icon {
+    padding-right: 5px;
+}
+
+.header-button a {
+    color: #BCD4E8;
+}
+
+
+
+
+

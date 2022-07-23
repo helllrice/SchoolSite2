@@ -1,0 +1,21 @@
+.sub-header {
+    max-width: 100%;
+    padding: 30px 50px;
+    margin: 0 auto;
+}
+
+.sub-header-box {
+    display: flex;
+    justify-content: center;
+}
+
+.sub-header-nav  {
+    padding-left: 400px;
+    display: flex;
+    font-size: 18px;
+}
+
+.sub-header-nav li {
+    padding: 20px 40px;
+    list-style: none;
+}

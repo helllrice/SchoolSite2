@@ -1,0 +1,17 @@
+.navigation li {
+    list-style: none;
+    color: #fff;
+}
+
+.ant-menu-inline .ant-menu-item, .ant-menu-inline .ant-menu-submenu-title{
+    width: 100% !important;
+}
+
+.navigation {
+    color: #34135b;
+    font-size: 20px;
+    border: none;
+    background: transparent;
+    display: flex;
+    width: 100%;
+}
